@@ -17,7 +17,7 @@ WINDOWS DESTEĞİ YOKTUR.
 ```sh
 sudo rm -rf "/usr/local/share/tdklik" "/usr/local/bin/tdklik" #Bunlardan bazıları bulunmadıysa sorun değil
 git clone "https://github.com/Terracotta-Lite/tdklik.git"
-sudo cp tdklik/tdklik /usr/local/bin
+sudo cp tdklik/tdklik.sh /usr/local/bin/tdklik
 ```
 
 ## Sorunlar
